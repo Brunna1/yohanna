@@ -1,0 +1,13 @@
+media.css
+.price-box {
+ background: #fff;
+ color: #555;
+ list-style-type: none;
+ border: 1px solid #555;
+ margin: 0;
+ padding: 0;}
+
+ .price-box .header {
+    background-color: #111;
+    color: #fff;
+    font-size: 25px;}
